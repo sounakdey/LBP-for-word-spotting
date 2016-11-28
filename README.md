@@ -1,0 +1,1 @@
+# LBP-for-word-spotting
