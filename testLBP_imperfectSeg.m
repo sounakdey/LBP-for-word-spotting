@@ -1,3 +1,16 @@
+% If usage of this script contribute to scientific public useful please cite the paper
+% entitled 'Local Binary Pattern for word spotting in historical document' which
+% can be found on 'https://arxiv.org/pdf/1604.05907v2.pdf' 
+% For citation
+% @inproceedings{stauffer2016graph,
+%  title={Graph-based keyword spotting in historical handwritten documents},
+%  author={Stauffer, Michael and Fischer, Andreas and Riesen, Kaspar},
+%  booktitle={Joint IAPR International Workshops on Statistical Techniques in Pattern Recognition (SPR) and Structural and Syntactic Pattern Recognition (SSPR)},
+%  pages={564--573},
+%  year={2016},
+%  organization={Springer}
+% }
+
 clc; 
 global features labels
 debug = false;
