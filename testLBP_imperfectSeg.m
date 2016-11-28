@@ -1,4 +1,4 @@
-% If usage of this script contribute to scientific public useful please cite the paper
+% If usage of this script contribute to scientific publication useful please cite the paper
 % entitled 'Local Binary Pattern for word spotting in historical document' which
 % can be found on 'https://arxiv.org/pdf/1604.05907v2.pdf' 
 % For citation
